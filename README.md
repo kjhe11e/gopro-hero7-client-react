@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+A simple GoPro client.
+
+# Setup / Usage steps:
+
+1. `yarn start`
+
+2. Clone and run  https://github.com/kjhe11e/gopro-hero7-nodejs
+
+* Note you will need to connect to your GoPro's wifi.
+
+# Appendix
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
